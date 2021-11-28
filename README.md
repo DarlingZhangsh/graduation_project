@@ -37,3 +37,4 @@ redis 3.2.100
 数据库：mysql 8
 
 jdk版本：1.8.0_181
+gitee地址 https://gitee.com/darlingzhangsh/dashboard/projects
